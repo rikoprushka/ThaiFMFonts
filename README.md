@@ -1,7 +1,8 @@
 # ThaiFMFonts
 
-Thai Fonts for Football Manager 2023
+### Thai Fonts for Football Manager 2023 ###
 ฟอนต์ภาษาไทยสำหรับเกม Football Manager 2023
+### Noto Sans Thai ###
 
 ## Installation
 
@@ -38,6 +39,10 @@ C:\Users\%USERNAME%\Documents\Sports Interactive\Football Manager 2023\
 ## Limitations
 ข้อจำกัด
 - สระลอย
+
+## Fonts License
+
+These fonts are licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 ## License
 
