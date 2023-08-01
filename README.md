@@ -40,6 +40,13 @@ C:\Users\%USERNAME%\Documents\Sports Interactive\Football Manager 2023\
 ข้อจำกัด
 - สระลอย
 
+## การติดตั้งภาษาไทย
+ดาวน์โหลดไฟล์ ThaiFM2023RikoPrushka.ltc จาก [GitHub](https://github.com/rikoprushka/ThaiFM2023-RikoPrushka/releases)
+จากนั้นนำไฟล์ไปไว้ที่
+```
+C:\Users\%USERNAME%\Documents\Sports Interactive\Football Manager 2023\languages
+```
+
 ## Fonts License
 
 These fonts are licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
